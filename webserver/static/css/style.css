@@ -1,0 +1,23 @@
+h1{
+color:Green;
+}
+
+.kanaka
+{
+  width: 250px;
+}
+
+h3{
+  color:red;
+}
+
+input{
+  border:1px solid #cccccc;
+  padding:8px;
+}
+
+button
+{
+  cursor: pointer;
+  border: 1px solid #888888;
+}
